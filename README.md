@@ -10,6 +10,7 @@ Shiny is a framework that makes it easy to build interactive web applications wi
 - [Blogs](#blogs)
 - [Tutorials](#tutorials)
 - [Examples](#examples)
+- [Packages](#packages)
 - [Integrations](#integrations)
 
 ## Resources
@@ -31,6 +32,10 @@ Shiny is a framework that makes it easy to build interactive web applications wi
 * [Official examples](https://shinylive.io/py/examples/)
 * [Official gallery](https://shiny.posit.co/py/gallery/)
 
+## Packages
+* [`shiny`](https://github.com/posit-dev/py-shiny)
+* [`shinylive`](https://github.com/posit-dev/shinylive)
+* [`shinywidgets`](https://github.com/posit-dev/py-shinywidgets)
+
 ## Integrations
 * [Shiny for Python extension for VS Code](https://marketplace.visualstudio.com/items?itemName=Posit.shiny-python)
-
