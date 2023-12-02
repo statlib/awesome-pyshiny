@@ -31,11 +31,14 @@ Shiny is a framework that makes it easy to build interactive web applications wi
 ## Examples
 * [Official examples](https://shinylive.io/py/examples/)
 * [Official gallery](https://shiny.posit.co/py/gallery/)
+* [Retirement simulation dashboard](https://github.com/wch/retirement-simulation-dashboard): Dashboard using [Quarto](https://quarto.org/) and [Shiny for Python](https://shiny.posit.co/py/). Quarto provides the document structure and layout, while Shiny provides the interactivity.
+* [Chatstream](https://github.com/wch/chatstream): a Shiny for Python module for building AI chat applications.
 
 ## Packages
 * [`shiny`](https://github.com/posit-dev/py-shiny)
 * [`shinylive`](https://github.com/posit-dev/shinylive)
+* [`shinyuieditor`](https://github.com/rstudio/shinyuieditor)
 * [`shinywidgets`](https://github.com/posit-dev/py-shinywidgets)
 
-## Integrations
+## Extensions
 * [Shiny for Python extension for VS Code](https://marketplace.visualstudio.com/items?itemName=Posit.shiny-python)
